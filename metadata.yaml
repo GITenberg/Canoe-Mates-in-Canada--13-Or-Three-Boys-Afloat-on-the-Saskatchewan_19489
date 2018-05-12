@@ -1,0 +1,36 @@
+_repo: Canoe-Mates-in-Canada--13-Or-Three-Boys-Afloat-on-the-Saskatchewan_19489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathborne, St. George
+    aliases:
+    - Old Broadbrim
+    - Adams, Harrison
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1599'
+    url: http://www.gutenberg.org/2009/agents/1599
+    wikipedia:
+    - http://en.wikipedia.org/wiki/St._George_Rathborne
+    - http://www.gutenberg.org/ebooks/author/4161
+    - http://www.gutenberg.org/ebooks/author/45240
+    - http://www.gutenberg.org/ebooks/author/2624
+description: ''
+gutenberg_issued: '2006-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Canoes and canoeing -- Juvenile fiction'
+title: Canoe Mates in Canada; Or, Three Boys Afloat on the Saskatchewan
+url: http://www.gutenberg.org/ebooks/19489
