@@ -19,6 +19,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/45240
     - http://www.gutenberg.org/ebooks/author/2624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19489#Canoe-Mates-in-Canada--13-Or-Three-Boys-Afloat-on-the-Saskatchewan
 gutenberg_issued: '2006-10-07'
 gutenberg_type: Text
 identifiers:
